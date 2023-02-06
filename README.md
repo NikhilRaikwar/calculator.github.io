@@ -19,6 +19,3 @@ This project is open to contributions and suggestions. If you would like to cont
 
 <h2>Follow for More</h2>
 Don't forget to follow the account for more projects like this!
-![cal](https://user-images.githubusercontent.com/70462831/217020425-856defdf-1930-45b8-9cc6-5282e67cd852.jpg)
-
-
